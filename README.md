@@ -15,12 +15,6 @@ A promotional UI section where users can:
 
 ![Bundle and Save UI](./bundel.png)
 
-## 🌐 Language
-
-The interface is in **Dutch**, including labels such as:
-
-- _"In winkelwagen"_ → Add to cart  
-- _"Tijdelijke korting"_ → Temporary discount
 
 ## 💡 Use Cases
 
