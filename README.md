@@ -13,7 +13,7 @@ A promotional UI section where users can:
 
 ## 📸 Screenshot
 
-![Bundle and Save UI](./5d1c6dea-bfe9-4e61-a82a-35c13e477e18.png)
+![Bundle and Save UI](./bundel.png)
 
 ## 🌐 Language
 
